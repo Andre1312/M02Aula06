@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+	background-color: powderblue;
+}
+
+h3 {
+	color: blue;
+	text-align: center;
+}
+
+p {
+	color: red;
+}
+
+form {
+	color: darkblue;
+	border: thin;
+}
+
+label {
+	display: inline-block;
+	width: 10em;
+	vertical-align: top;
+	margin-right: 2px;
+	text-align: right;
+}
+
+input {
+	display: inline-block;
+	margin-left: 2px;
+	width: 40%;
+}
+
+.client {
+	margin: auto;
+	width: 45%;
+	border: 2px dotted green;
+	padding: 10px;
+}
